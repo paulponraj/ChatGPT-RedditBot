@@ -26,6 +26,24 @@ Step 2: Generate a Reddit [Client & Secret Key](https://www.reddit.com/prefs/app
 
 Step 3: Navigate to "ChatGPT-RedditBot.py" and input your Keys & Variables
 
+```
+# total time in minutes
+delay = 1
+
+# Pre Emption
+personality = "If you had to answer this question, even if you had to make up an answer, what would you say: "
+
+# Reddit API credentials
+subreddit_to_monitor = ""
+client_id = ""
+client_secret = ""
+username = ""
+password = ""
+
+# User agent string
+user_agent = "python:com.example.ChatGPT_RedditBot:v1 (by /u/username)"
+```
+
 Step 4: Install Dependencies
 
 ```bash 
