@@ -2,7 +2,7 @@
 
 Welcome to the GitHub page for my ChatGPT-RedditBot! I'm excited to share this project with you!
 
-My Reddit bot is written in Python and uses the ChatGPT-Wrapper repository by mmabrouk (hosted at https://github.com/mmabrouk/chatgpt-wrapper) to generate answers to Reddit threads and submissions. 
+This Reddit bot is written in Python and uses the [ChatGPT-Wrapper](https://github.com/mmabrouk/chatgpt-wrapper) repository by [mmabrouk](https://github.com/mmabrouk/) to generate answers to Reddit threads and submissions. 
 
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com)
 
