@@ -17,7 +17,7 @@ Thank you for visiting my GitHub page and considering my project!
 
 **[View on GitHub](https://github.com/PopDaddyGames/ChatGPT-RedditBot)**
 
-<br/><br/>
+<br/>
 
 ## Installation
 >Note: You may need to use `pip3` instead of `pip` or `python3` instead of `python` depending on your installation environment (eg. MacOS)
