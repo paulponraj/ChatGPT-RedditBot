@@ -1,6 +1,8 @@
 # 🤖 ChatGPT Reddit Bot [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Welcome to the GitHub page for my ChatGPT-RedditBot! I'm excited to share this project with you!
+# Welcome to the ChatGPT-RedditBot! 
+
+I'm excited to share this project with you!
 
 This Reddit bot is written in Python and uses the [ChatGPT-Wrapper](https://github.com/mmabrouk/chatgpt-wrapper) repository by [mmabrouk](https://github.com/mmabrouk/) to generate answers to Reddit threads and submissions. 
 
