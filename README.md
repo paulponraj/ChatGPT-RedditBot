@@ -56,7 +56,7 @@ playwright install firefox
 chatgpt install
 ```
 
-### Step 5: Run the ChatGPT-RedditBot:
+### Step 5: Run the ChatGPT-RedditBot
 ```bash
 python ChatGPT-RedditBot.py
 ```
