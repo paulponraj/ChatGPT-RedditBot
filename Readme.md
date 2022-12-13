@@ -36,6 +36,7 @@ username = "<REDDIT_USERNAME>"
 password = "<REDDIT_PASSWORD>"
 user_agent = "python:com.example.ChatGPT_RedditBot:v1 (by /u/username)"
 ```
+<br/>
 ### Step 4: Install Dependencies
 ```bash 
 pip install setuptools
@@ -49,6 +50,7 @@ playwright install firefox
 ```bash 
 chatgpt install
 ```
+<br/>
 ### Step 5: Run the ChatGPT-RedditBot:
 ```bash
 python ChatGPT-RedditBot.py
