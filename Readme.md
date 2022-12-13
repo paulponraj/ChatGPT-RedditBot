@@ -8,7 +8,7 @@ This Reddit bot is written in Python and uses the [ChatGPT-Wrapper](https://gith
 
 I designed this simple bot to provide helpful and engaging responses to users on Reddit, making it a valuable addition to any subreddit. This code was mainly generated with ChatGPT itself!
 
-The bot allows the developer to have control over various features, such as filters to remove errors form ChatGPT, defining personalities for the bot to use when generating responses, customizable delays between responses, and the ability to specify which subreddit(s) the bot should operate in. This makes the bot highly customizable and easy to tailor to your specific needs.
+The bot allows the developer to have control over various features, such as filters to remove errors from ChatGPT, defining personalities for the bot to use when generating responses, customizable delays between responses, and the ability to specify which subreddit(s) the bot should operate in. This makes the bot highly customizable and easy to tailor to your specific needs.
 
 To use the bot, you will need to host it on your own local machine or server. Once it is set up, the bot will scan the subreddit(s) of your choice for new threads and submissions. When it finds an unanswered thread or submission, it will use the ChatGPT large language model to generate a response and post it as a comment on the Reddit thread.
 
