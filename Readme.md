@@ -16,3 +16,13 @@ If you have any feedback or suggestions for improvements, I would love to hear t
 Thank you for visiting my GitHub page and considering my project!
 
 **[View on GitHub](https://github.com/PopDaddyGames/ChatGPT-RedditBot)**
+
+## Dependencies & Instructions
+`pip install setuptools`
+```bash
+pip install git+https://github.com/mmabrouk/chatgpt-wrapper
+```
+`playwright install firefox`
+```bash
+chatgpt install
+```
