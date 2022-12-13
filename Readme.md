@@ -16,6 +16,7 @@ If you have any feedback or suggestions for improvements, I would love to hear t
 Thank you for visiting my GitHub page and considering my project!
 
 **[View on GitHub](https://github.com/PopDaddyGames/ChatGPT-RedditBot)**
+**[Support on Patreon](https://patreon.com/PopDaddyGames?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)**
 <br/>
 
 ## Installation
