@@ -18,6 +18,7 @@ Thank you for visiting my GitHub page and considering my project!
 **[View on GitHub](https://github.com/PopDaddyGames/ChatGPT-RedditBot)**
 
 ## Dependencies & Instructions
+Note: You may need to use `pip3` instead of `pip` depending on your installation environment (eg. MacOS)
 ```bash 
 pip install setuptools
 ```
