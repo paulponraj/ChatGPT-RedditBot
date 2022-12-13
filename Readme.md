@@ -22,7 +22,8 @@ Thank you for visiting my GitHub page and considering my project!
 
 ### Step 1: Create an [OpenAI Account](https://beta.openai.com/account/api-keys)
 ### Step 2: Generate a Reddit [Client & Secret Key](https://www.reddit.com/prefs/apps)
-### Step 3: Navigate to "ChatGPT-RedditBot.py" and input your Keys & Variables
+### Step 3: Download [ChatGPT-RedditBot](https://github.com/PopDaddyGames/ChatGPT-RedditBot.git)
+> Navigate to "ChatGPT-RedditBot.py" and input your Keys & Variables
 ```
 delay = 1
 
