@@ -18,8 +18,9 @@ Thank you for visiting my GitHub page and considering my project!
 **[View on GitHub](https://github.com/PopDaddyGames/ChatGPT-RedditBot)**
 
 ## Dependencies & Instructions
-Note: You may need to use `pip3` instead of `pip` or `python3` instead of `python` depending on your installation environment (eg. MacOS)
-Generate an [OpenAI API Key](https://beta.openai.com/account/api-keys)
+>Note: You may need to use `pip3` instead of `pip` or `python3` instead of `python` depending on your installation environment (eg. MacOS)
+Step 1: Generate an [OpenAI API Key](https://beta.openai.com/account/api-keys)
+Step 2: Dependencies
 ```bash 
 pip install setuptools
 ```
@@ -32,7 +33,7 @@ playwright install firefox
 ```bash 
 chatgpt install
 ```
-Now navigate to the folder containing "ChatGPT-RedditBot.py", then run the following command command:
+Step 3: Now navigate to the folder containing "ChatGPT-RedditBot.py", then run the following command command:
 ```bash
 python ChatGPT_RedditBot.py
 ```
