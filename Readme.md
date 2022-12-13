@@ -18,7 +18,7 @@ Thank you for visiting my GitHub page and considering my project!
 **[View on GitHub](https://github.com/PopDaddyGames/ChatGPT-RedditBot)**
 
 ## Dependencies & Instructions
-```pip install setuptools```
-```pip install git+https://github.com/mmabrouk/chatgpt-wrapper```
-```playwright install firefox```
-```chatgpt install```
+```bash pip install setuptools```
+```bash pip install git+https://github.com/mmabrouk/chatgpt-wrapper```
+```bash playwright install firefox```
+```bash chatgpt install```
