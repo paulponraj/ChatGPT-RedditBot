@@ -6,9 +6,9 @@ I'm excited to share this project with you!
 
 This Reddit bot is written in Python and uses the [ChatGPT-Wrapper](https://github.com/mmabrouk/chatgpt-wrapper) repository by [mmabrouk](https://github.com/mmabrouk/) to generate answers to Reddit threads and submissions. 
 
-The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com)
+The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com).
 
-I designed it to provide helpful and engaging responses to users on Reddit, making it a valuable addition to any subreddit.
+I designed this simple bot to provide helpful and engaging responses to users on Reddit, making it a valuable addition to any subreddit. This code was mainly generated with ChatGPT itself!
 
 The bot allows the developer to have control over various features, such as filters for inappropriate language, multiple personalities for the bot to use when generating responses, customizable delays between responses, and the ability to specify which subreddit(s) the bot should operate in. This makes the bot highly customizable and easy to tailor to your specific needs.
 
