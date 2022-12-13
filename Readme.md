@@ -20,8 +20,9 @@ Thank you for visiting my GitHub page and considering my project!
 ## Installation
 >Note: You may need to use `pip3` instead of `pip` or `python3` instead of `python` depending on your installation environment (eg. MacOS)
 
-### Step 1: Generate a Reddit [Client & Secret Key](https://www.reddit.com/prefs/apps)
-### Step 2: Navigate to "ChatGPT-RedditBot.py" and input your Keys & Variables
+### Step 1: Create an [OpenAI Account](https://beta.openai.com/account/api-keys)
+### Step 2: Generate a Reddit [Client & Secret Key](https://www.reddit.com/prefs/apps)
+### Step 3: Navigate to "ChatGPT-RedditBot.py" and input your Keys & Variables
 ```
 delay = 1
 
@@ -34,7 +35,7 @@ username = "<REDDIT_USERNAME>"
 password = "<REDDIT_PASSWORD>"
 user_agent = "python:com.example.ChatGPT_RedditBot:v1 (by /u/username)"
 ```
-### Step 3: Install Dependencies
+### Step 4: Install Dependencies
 ```bash 
 pip install setuptools
 ```
@@ -47,7 +48,7 @@ playwright install firefox
 ```bash 
 chatgpt install
 ```
-### Step 4: Run the ChatGPT-RedditBot:
+### Step 5: Run the ChatGPT-RedditBot:
 ```bash
 python ChatGPT-RedditBot.py
 ```
