@@ -24,7 +24,9 @@ Step 1: Generate an [OpenAI API Key](https://beta.openai.com/account/api-keys)
 
 Step 2: Generate a Reddit [Client & Secret Key](https://www.reddit.com/prefs/apps)
 
-Step 3: Install Dependencies
+Step 3: Navigate to "ChatGPT-RedditBot.py" and input your Keys & Variables
+
+Step 4: Install Dependencies
 
 ```bash 
 pip install setuptools
@@ -39,8 +41,8 @@ playwright install firefox
 chatgpt install
 ```
 
-Step 4: Now navigate to the folder containing "ChatGPT-RedditBot.py", then run the following command command:
+Step 5: Run the ChatGPT-RedditBot:
 
 ```bash
-python ChatGPT_RedditBot.py
+python ChatGPT-RedditBot.py
 ```
