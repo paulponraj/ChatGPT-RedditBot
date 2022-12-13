@@ -19,6 +19,7 @@ Thank you for visiting my GitHub page and considering my project!
 
 ## Dependencies & Instructions
 >Note: You may need to use `pip3` instead of `pip` or `python3` instead of `python` depending on your installation environment (eg. MacOS)
+
 Step 1: Generate an [OpenAI API Key](https://beta.openai.com/account/api-keys)
 Step 2: Dependencies
 ```bash 
