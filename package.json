@@ -5,15 +5,15 @@
   "main": "ChatGPT-RedditBot.py",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start:python": "netlify-pip serve ChatGPT-RedditBot.py",
-    "build:python": "netlify-pip build ChatGPT-RedditBot.py"
+    "start:python": "netlify-py serve ChatGPT-RedditBot.py",
+    "build:python": "netlify-py build ChatGPT-RedditBot.py"
   },
   "author": "Arnab Ghosh",
   "license": "ISC",
   "dependencies": {
     "@netlify/functions": "^1.3.0",
     "dotenv": "^8.0.0",
-    "netlify-pip": "^2.7.18",
+    "netlify-py": "^2.7.18",
     "openai": "^3.1.0",
     "twitter-api-v2": "^1.12.9",
     "twitter-lite": "^1.1.0"
