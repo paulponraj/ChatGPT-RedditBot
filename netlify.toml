@@ -1,4 +1,4 @@
 [build]
     functions = "dist/"
     schedule = "@hourly"
-    command = "npm run build:python"
+    command = "npm run build:py"
